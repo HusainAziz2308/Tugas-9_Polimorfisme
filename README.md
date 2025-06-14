@@ -46,6 +46,7 @@ Polimorfisme adalah kemampuan suatu objek untuk mengambil banyak bentuk, misalny
 4. [Main.java](Main.java)
 
 **F. LATIHAN**
+
 [Pegawai.java](Pegawai.java)
 
 ## Analisis
@@ -59,4 +60,6 @@ Polimorfisme adalah konsep penting yang memungkinkan fleksibilitas dan efisiensi
 
 Pengembangan lebih lanjut dapat dilakukan dengan memperluas konsep polimorfisme pada proyek yang lebih kompleks.
 
-File: [4124031_Husain Aziz_Tugas 9](https://github.com/HusainAziz2308/Tugas-9_Polimorfisme/releases/download/file/4124031_Husain.Aziz_Tugas.9.docx)
+**File:**
+
+file laporan [Disini](https://github.com/HusainAziz2308/Tugas-9_Polimorfisme/releases/tag/file)
